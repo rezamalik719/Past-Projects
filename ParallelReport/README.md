@@ -1,1 +1,1 @@
-
+This is a paper analyzing the performance dynamics of parallelized sorting algorithms. The focus of the paper was primarily on bubble and merge sort - with the goal being to compare efficiency for serial vs parallelized implementations across various sample sizes. Other algorithms and important related works are also discussed. This was a group report for Parallel Programming at Rensselaer Polytechnic Institute - all contributors are listed on the first page of the report.
