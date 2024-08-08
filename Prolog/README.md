@@ -1,4 +1,5 @@
-
+Reza Malik
+Project for Parallel Programming at RPI
 
 Features
     Part 1
