@@ -1,0 +1,4 @@
+(\the.\oranges.(oranges the) (oranges tasty))
+(\y.(\x.\y.(y x) (y w)) l0)
+(\y.(\x.\y.(y x) (y w)) y)
+(\a.\b.(\x.\y.(y x) (a w)) y0)
